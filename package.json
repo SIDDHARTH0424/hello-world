@@ -1,21 +1,11 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello World project for Week 1: Git workflow",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SIDDHARTH0424/hello-world.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/SIDDHARTH0424/hello-world/issues"
-  },
-  "homepage": "https://github.com/SIDDHARTH0424/hello-world#readme"
+  "author": "Your Name",
+  "license": "ISC"
 }
